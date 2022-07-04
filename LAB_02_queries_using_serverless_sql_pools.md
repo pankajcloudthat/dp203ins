@@ -1,10 +1,4 @@
----
-lab:
-    title: 'Run interactive queries using serverless SQL pools'
-    module: 'Module 2'
----
-
-# Lab 2 - Run interactive queries using serverless SQL pools
+# Lab - Run interactive queries using serverless SQL pools
 
 In this lab, you will learn how to work with files stored in the data lake and external file sources, through T-SQL statements executed by a serverless SQL pool in Azure Synapse Analytics. You will query Parquet files stored in a data lake, as well as CSV files stored in an external data store. Next, you will create Azure Active Directory security groups and enforce access to files in the data lake through Role-Based Access Control (RBAC) and Access Control Lists (ACLs).
 
